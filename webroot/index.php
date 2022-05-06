@@ -6,6 +6,6 @@
     <link rel="icon" href="data:,">
 </head>
 <body>
-zpovednicar.cz
+<?= $_SERVER['SERVER_NAME'] ?>
 </body>
 </html>
