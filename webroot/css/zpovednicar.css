@@ -1,0 +1,20 @@
+.tingle-modal {
+	font-family: tahoma, arial;
+}
+.tingle-modal-box {
+	background-color: #07274B;
+}
+ul.sinnerList a, ul.sinnerList a:visited {
+	color: #FFFFCC;
+}
+.tingle-modal-box__footer {
+	background-color: #90CCF1;
+}
+.tingle-modal__closeLabel {
+	font-family: inherit;
+}
+.modal_default_main, .modal_default_inner {
+	background-color: #07274B;
+	font-family: tahoma, arial;
+}
+
