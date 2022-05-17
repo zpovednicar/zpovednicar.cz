@@ -7,6 +7,6 @@
     <meta http-equiv="refresh" content="0; url=https://zpovednicar.github.io/">
 </head>
 <body>
-<?= $_SERVER['SERVER_NAME'] ?>
+<?= ''//$_SERVER['SERVER_NAME'] ?>
 </body>
 </html>
